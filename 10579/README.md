@@ -6,7 +6,7 @@
 Este diretório contém o código fonte gerado para solucionar o problema 10579	Fibonacci Numbers
 do Online Judge. O problema recebeu veredito Accepted, como mostrado na
 figura abaixo:
-![Veredito](/fibonacci/veredito.PNG)
+![Veredito](/10579/10579-veredito.PNG)
 
 A programação dinâmica foi usada para poupar que certas contas sejam feitas várias vezes de forma desnecessária no decorrer da execução.
 Numa execução comum de Fibonacci para descobrir F(3) precisamos calcular F(2) e F(1), caso precisamos de F(4) faríamos novamente o cálculo, 
