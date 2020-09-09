@@ -14,4 +14,6 @@ com recorrências, de F(3), gerando um efeito cascata. Para esse programa, salva
 e quando necessário buscamos o valor pela key (posição) e descobrimos o value (valor correspondente na sequência de Fibonacci), assim não 
 precisamos refazer cálculos.
 
-O programa foi desenvolvido em Python 3. 
+O programa foi desenvolvido em Python 3.7.4, portanto para executar o programa você precisará ter o Python instalado na sua máquina.
+
+Para executar o código, utilize: python 10579.py
