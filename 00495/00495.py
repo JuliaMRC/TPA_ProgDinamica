@@ -1,5 +1,7 @@
 import sys
 
+sys.setrecursionlimit(10**6) 
+
 dic = {}
 
 def fibo(num):
@@ -26,11 +28,10 @@ def main():
             break
 
     for item in lista_num:
-        sys.setrecursionlimit(int(item)*10)
         fibo(item)
 
     for key in lista_num:
-        print(dic[key])
+        print("The Fibonacci number for " + str(key) + " is " + str(dic[key]))
 
 if __name__ == "__main__":
     main()
