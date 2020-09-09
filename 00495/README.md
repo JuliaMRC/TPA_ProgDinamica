@@ -11,4 +11,6 @@ figura abaixo:
 A programação dinâmica e lógica empregada nessa resolução foi a mesma usada no programa anterior (10579 - Fibonacci Numbers). A diferença entre
 os dois códigos é a formatação do output e para essa solução foi necessário usar um limite maior de recursões possíveis.
 
-O programa foi desenvolvido em Python 3. 
+O programa foi desenvolvido em Python 3.7.4, portanto para executar o programa você precisará ter o Python instalado na sua máquina.
+
+Para executar o código, utilize: python 00495.py
